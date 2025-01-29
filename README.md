@@ -1,7 +1,7 @@
 # Loan-Approval-Prediction 🚀
 
 ## 📌 Project Overview  
-###### Loan providers face challenges in manually assessing loan applications, which can lead to delays and inconsistencies. The objective of this project is to develop a machine learning model that automates the loan approval process by analyzing historical data, thereby improving efficiency and accuracy.
+Loan providers face challenges in manually assessing loan applications, which can lead to delays and inconsistencies. The objective of this project is to develop a machine learning model that automates the loan approval process by analyzing historical data, thereby improving efficiency and accuracy.
 
 ## 📂 Dataset  
 - **Source**: The dataset consists of 614 records with 13 features.  
